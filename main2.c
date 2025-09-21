@@ -14,7 +14,9 @@ void happyBirthday(char name[50], int age){
 
 int main(){
 
-
+    //function = A reusable setion of code that can be invoked "called"
+    //              Arguments can be sent to a function so that it can use them
+    
     char name[50] = "";
     int age = 0;
   
